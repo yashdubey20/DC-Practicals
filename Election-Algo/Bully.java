@@ -1,5 +1,4 @@
 import java.util.*;
-import java.util.*;
 class Bully
 {
     public static void main(String args[])
